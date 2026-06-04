@@ -1,0 +1,60 @@
+{
+  "surfaces": [
+    {
+      "hemi": "lh",
+      "surface": "white",
+      "file": "lh.white.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    },
+    {
+      "hemi": "lh",
+      "surface": "pial",
+      "file": "lh.pial.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    },
+    {
+      "hemi": "lh",
+      "surface": "inflated",
+      "file": "lh.inflated.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    },
+    {
+      "hemi": "lh",
+      "surface": "sphere",
+      "file": "lh.sphere.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    },
+    {
+      "hemi": "rh",
+      "surface": "white",
+      "file": "rh.white.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    },
+    {
+      "hemi": "rh",
+      "surface": "pial",
+      "file": "rh.pial.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    },
+    {
+      "hemi": "rh",
+      "surface": "inflated",
+      "file": "rh.inflated.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    },
+    {
+      "hemi": "rh",
+      "surface": "sphere",
+      "file": "rh.sphere.json",
+      "n_verts": 163842,
+      "n_faces": 327680
+    }
+  ]
+}
